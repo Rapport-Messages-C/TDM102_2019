@@ -1,0 +1,6 @@
+G:\C#\TDs\TD8\TD8\bin\Debug\TD8.exe.config
+G:\C#\TDs\TD8\TD8\bin\Debug\TD8.exe
+G:\C#\TDs\TD8\TD8\bin\Debug\TD8.pdb
+G:\C#\TDs\TD8\TD8\obj\Debug\TD8.csprojResolveAssemblyReference.cache
+G:\C#\TDs\TD8\TD8\obj\Debug\TD8.exe
+G:\C#\TDs\TD8\TD8\obj\Debug\TD8.pdb
